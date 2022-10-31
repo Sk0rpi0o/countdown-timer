@@ -6,7 +6,7 @@ const hoursEl = document.getElementById('hours');
 const minutesEl = document.getElementById('minutes');
 const secondsEl = document.getElementById('seconds');
  
-const   newWebsite = "31 Oct 2022";
+const   newWebsite = "30 Nov 2022";
 
 function countdown() {
   const newWebsiteDate = new Date(newWebsite);
